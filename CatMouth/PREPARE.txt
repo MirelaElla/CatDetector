@@ -1,3 +1,4 @@
+# im cmd terminal nach dem Starten eingeben:
 C:\\ProgramData\\anaconda3\\Scripts\\activate.bat C:\\ProgramData\\anaconda3
 conda activate myCatEnv
 
@@ -5,3 +6,6 @@ conda activate myCatEnv
 # for activating GPU TensorFlow
 conda activate tf-gpu
 #https://docs.anaconda.com/free/anaconda/applications/tensorflow/
+
+# change to working directory with cd [path] and run script
+(myCatEnv) C:\Users\Mirela\Desktop\CatDetector\CatMouth>python CatMouthDetector.py
