@@ -11,7 +11,7 @@ win = visual.Window(fullscr=True)
 image_stim = visual.ImageStim(win)
 
 # Path to your images
-image_folder = 'Y:/cats_approach_training_2024_04_30/'
+image_folder = 'Y:/cats_approach_training_2024_05_19/'
 
 # List of image files
 image_files = sorted([f for f in os.listdir(image_folder) if f.endswith(('.png', '.jpg', '.jpeg'))])
