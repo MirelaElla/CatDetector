@@ -1,0 +1,10 @@
+# anaconda: conda activate tf
+# pip install -r requirements.txt
+numpy
+pandas
+opencv-python
+matplotlib
+tensorflow==2.10.1
+scikit-learn
+# to run the notebook
+ipykernel
